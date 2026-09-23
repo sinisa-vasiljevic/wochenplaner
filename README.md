@@ -126,6 +126,8 @@ Zur Wiederherstellung:
 ```text
 /
 ├── index.html
+├── apple-touch-icon.png
+├── icon-512.png
 └── README.md
 ```
 
@@ -176,3 +178,8 @@ Enthalten sind insbesondere:
 ## Lizenz
 
 Private Nutzung und Anpassung für die eigene Trainingsorganisation. Für eine öffentliche oder gewerbliche Weitergabe sollte eine passende Lizenzdatei ergänzt werden.
+
+
+## iPhone-Homescreen-Icon
+
+Die Datei `apple-touch-icon.png` wird auf dem iPhone automatisch verwendet, wenn die Website in Safari über **Teilen > Zum Home-Bildschirm** hinzugefügt wird. Alle Dateien müssen im Hauptverzeichnis des GitHub-Repositorys liegen.
